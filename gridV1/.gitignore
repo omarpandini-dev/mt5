@@ -1,0 +1,4 @@
+*.ex5
+*.compile.log
+__pycache__/
+.pytest_cache/
